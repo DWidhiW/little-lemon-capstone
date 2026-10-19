@@ -1,0 +1,6 @@
+OrderID,CustomerID,CustomerName,BookingID,OrderDate,Quantity,TotalCost,City
+1,1,John Smith,101,2026-10-01,2,45.00,New York
+2,2,Alice Brown,102,2026-10-02,4,90.00,Chicago
+3,3,Bob Jones,103,2026-10-03,1,22.50,New York
+4,1,John Smith,104,2026-10-04,3,67.50,New York
+5,4,Emma Wilson,105,2026-10-05,5,112.50,Los Angeles
